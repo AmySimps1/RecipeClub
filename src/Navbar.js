@@ -5,12 +5,12 @@ class Navbar extends Component {
   render() {
     return (
       <header>
-        <h2><a href="https://simpson2020-ibxxw.run-us-west2.goorm.io/">Recipe Movie Club</a></h2>
+        <h2><a href="https://recipemovieclub.herokuapp.com/">Recipe Movie Club</a></h2>
         <nav>
-          <li><a href="https://simpson2020-ibxxw.run-us-west2.goorm.io/">New Recipe</a></li>
-          <li><a href="https://simpson2020-ibxxw.run-us-west2.goorm.io/">Home</a></li>
-          <li><a href="https://simpson2020-ibxxw.run-us-west2.goorm.io/">About</a></li>
-          <li><a href="https://simpson2020-ibxxw.run-us-west2.goorm.io/">Contact Us</a></li>
+          <li><a href="https://recipemovieclub.herokuapp.com/">New Recipe</a></li>
+          <li><a href="https://recipemovieclub.herokuapp.com/">Home</a></li>
+          <li><a href="https://recipemovieclub.herokuapp.com/">About</a></li>
+          <li><a href="https://recipemovieclub.herokuapp.com/">Contact Us</a></li>
         </nav>
       </header>
     );
