@@ -8,10 +8,14 @@
   --dark-green: #84a05f; 
   --lip-color: #f28380; 
   --pastel-green: #c9dda2;  
+  --main-font: 'La Belle Aurore', cursive;
+  --second-font: 'Quicksand';
+  --third-font: 'Open Sans';
 }
 
+
 header {
-  font-family: 'La Belle Aurore', cursive;
+  font-family: var(--main-font);
   background-color: var(--red-orange);
   display: flex;
   justify-content: space-between;
